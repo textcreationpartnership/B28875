@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the true funerals of the Great Lord Marquesse of Montrose His Majesties Lord High Commissioner, and Captain General of the forces in Scotland: with that of the renowned knight Sir William Hay of Delgity.</title>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28875</idno><idno type="EEBO-CITATION">48172863</idno>
+  <idno type="VID">207370</idno>
+  <idno type="EEBO-PROQUEST">2240896132</idno>
+  
+            <idno type="STC">Wing R882</idno>
+            <idno type="OCLC">48172863</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207370)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2076:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the true funerals of the Great Lord Marquesse of Montrose His Majesties Lord High Commissioner, and Captain General of the forces in Scotland: with that of the renowned knight Sir William Hay of Delgity.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Worcester College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Montrose, James Graham, --  Marquis of, 1612-1650.</term>
+               <term type="personal_name">Hay, William, --  Sir, of Delgity.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207370:1"/>
+            <p>A RELATION OF THE TRUE FUNERALS Of the Great Lord Marquesse of MONTROSE HIS MAJESTIES Lord High COMMISSIONER, And Captain General of His Forces in SCOTLAND: WITH That of the Renowned Knight Sir <hi>William Hay</hi> of <hi>Delgity.</hi>
+            </p>
+            <p>Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207370:2"/>
+            <pb n="3" facs="tcp:207370:2"/>
+            <head>A RELATION OF THE TRUE FUNERALS Of the Great Lord Marquesse of MONTROSE, HIS MAJESTIES Lord High Commissioner, and Captain General of His Forces in <hi>SCOTLAND.</hi>
+            </head>
+            <head type="sub">With that of the Renowned Knight Sir <hi>WILLIAM HAY</hi> of DELGITY.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD Almighty's Justice and revenge of Murther is so frequently recorded by many famous Historians, that nothing shall be said here on that Theme in general, lest I should grate on some, who though subtile, hath been surpized in their subtilty, while they devested themselves of Christian maxims, to raise themselves through hu<g ref="char:EOLhyphen"/>mane Policy by the ruine of the most Eminent, and yet that their
+<pb n="4" facs="tcp:207370:3"/>promised stability hath been overturned, and their cut-out wayes damped and overclouded with abysses and darknesse: The bri<g ref="char:EOLhyphen"/>quals and returns of Providence of this nature, discovered in our late unnatural civil War, are testimonies sufficient to convince and confound the most peremptory <hi>Atheist</hi> of the Eternal and Immor<g ref="char:EOLhyphen"/>tal Deity, that will suffer no wickednesse (under what specious pretences soever, of <hi>Reformation</hi> or <hi>Good Cause</hi>) to passe unpu<g ref="char:EOLhyphen"/>nished. I shall not mention these ambitious spirits who grounded their proper advancement by overthrowing Religion and Law, how I say, some of them vagabonds, are exposed to shame and deserved obloquie. But the Divine Providence teacheth us to make this difference, that when Vertue and Loyalty hath groaned and suffered under Tyrannie and Oppression, in the end they have been crowned with Fame and Admiration, as our Dread Soveraign and Noble Parliament would have it witnessed in the Celebration of the Great Marquesse of <hi>Montrose</hi>'s Funerals, in the highest and magnificent Grandour, to counterballance the height of malici<g ref="char:EOLhyphen"/>ous invention exercised on him to the full. The particulars of the Honourable Ceremonies will in true and exquisit Herauldry display the several dignities he had, either as a Peer of the Land, or charged with His Majesties Service: So in a proportionable manner we shall shew the honour done to the memory of that renowned Colonel, Sir <hi>William Hay</hi> of <hi>Delgity,</hi> who suffering Martyrdome with him in the same cause, ambitioned his Fune<g ref="char:EOLhyphen"/>ral under the same infamous Gibbet, prophetically certainly, that he might participate with him the same honour at his first bodily Resurrection: This his request was easily assented to by these Monstrous Leeches, whose greatest glory was to be drunk and ryot in the blood of the most faithful Subjects; Nay even some of those whose profession should have preached mercy, belched out that the <hi>Good work went bonily on,</hi> when the Scaffold, or rather Shambles at the Crosse of <hi>Edinburgh,</hi> for the space of six weeks was dayly smoaking with the blood of the most Valiant and Loyal Subjects. But we proceed to the Funeral Pomp, hoping that these glorious Martyres are praising and glorifying God, while we are amusing our selves in this scantling transitory following
+<pb n="5" facs="tcp:207370:3"/>description: From the Abbay Church of <hi>Holy-rudehouse</hi> to that of St. <hi>Gyles</hi> in the high Town, the Funeral Pomp was as fol<g ref="char:EOLhyphen"/>loweth,</p>
+            <p>Two conductors in Mourning with black Staves.</p>
+            <p>Twenty five poor in Gowns, Hoods, the first of which went alone next to the conductors carrying a Gumpheon, the other twenty four following two and two, carrying the Armes of the House on long Staves.</p>
+            <p>An open Trumpet cloathed in rich Livery of the Marquesse Colours, carrying his Armes on his Banner.</p>
+            <p>Sir <hi>Harie Grahame</hi> in compleat Armour on Horseback, carrying on the point of a Launce, the Colours of the House, this Noble Gentleman accompanied his Excellence in all his good and bad Fortunes, both at Home and abroad.</p>
+            <p>Servants of friends in Mourning two and two.</p>
+            <p>The great Pincel with his Armes carryed by <hi>John Graham</hi> of <hi>Douchrie,</hi> a renowned Highland <hi>Hector,</hi> and one who stuck pe<g ref="char:EOLhyphen"/>remptorily to the present Marquesse of <hi>Montrose</hi> in the last Expe<g ref="char:EOLhyphen"/>dition under his Grace the Lord Commissioner, he is best known by the title of <hi>Tetrarch</hi> of <hi>Aberfoyl.</hi>
+            </p>
+            <p>The great Standard in Colours, with his Armes, carried by <hi>Thomas Grahame</hi> of <hi>Potento,</hi> a hopeful Cadet of the Ancient Fa<g ref="char:EOLhyphen"/>mily of <hi>Clarrisse.</hi>
+            </p>
+            <p>An Horse of War, with great Sadle and Pistols, led by two Lac<g ref="char:EOLhyphen"/>quies in Livery.</p>
+            <p>The Defuncts servants, two and two in mourning.</p>
+            <p>An Horse in State, with a rich Footmantle, two Lacquies in rich Livery, and his Parliament Badges.</p>
+            <p>Four closse Trumpets in mourning, carrying the Defuncts Armes on their Banners.</p>
+            <p>The great Gumpheon of black Taffetie carried on the point of a Launce by <hi>William Grahame</hi> younger of <hi>Duntrum,</hi> another sprightful Cadet of the house of <hi>Clarrisse.</hi>
+            </p>
+            <p>The great Pincel of Mourning, carried by <hi>George Grahame</hi> younger of <hi>Cairnie,</hi> who from his first entry to Manhood, accom<g ref="char:EOLunhyphen"/>panied his Chief in the Wars.</p>
+            <pb n="6" facs="tcp:207370:4"/>
+            <p> The Defuncts friends, two and two in Mourning.</p>
+            <p>The great Mourning Banner carried by <hi>George Grahame</hi> of <hi>Inch<g ref="char:EOLhyphen"/>brakie</hi> younger, whose youthhead only excused him from running the risks of his father.</p>
+            <p>The Spurs carried on the point of a Launce by <hi>Walter Grahame</hi> elder of <hi>Duntrun,</hi> a most honest Royalist, and highly commended for his hospitality.</p>
+            <p>The Gantlets carried by <hi>George Grahame</hi> of <hi>Drums</hi> on the point of a Launce, a worthy person well-becoming his name.</p>
+            <p>The Head Piece by <hi>Mungo Grahame</hi> of <hi>Gorthie</hi> on the point of a Launce, whose father had sometimes the honour to carry His Majesties Standart under his Excellency, his great sufferings and forfeiture is anuff to speak his action and honesty.</p>
+            <p>The Corslet by <hi>George Grahame</hi> of <hi>Monzie</hi> on the point of a Launce, a brave young Gentleman, whose father fell in his Ma<g ref="char:EOLhyphen"/>jesties Service under the Defunct.</p>
+            <p>A Banner all in Mourning by <hi>John Grahame</hi> of <hi>Balgowne,</hi> who likewise hazarded both Life and Fortune with his Chief.</p>
+            <p>The Lord Provest, Bailies and Burgesses of <hi>Edinburgh,</hi> two and two all in deep Mourning.</p>
+            <p>The Burgesses Members of Parliament in Mourning, two and two.</p>
+            <p>The Barrons Members of Parliament, two and two in Mour<g ref="char:EOLhyphen"/>ning.</p>
+            <p>The Nobles in Mourning, two and two.</p>
+            <p>Next followed the eight Branches first of the Mother side.</p>
+            <p>
+               <hi>Halyburton</hi> Lord <hi>Dirleton,</hi> carried by <hi>William Halyburton</hi> of <hi>Bittergask.</hi>
+            </p>
+            <p>
+               <hi>Douglasse</hi> Earle of <hi>Angus,</hi> by Sir <hi>Robert Douglasse</hi> of <hi>Blacker<g ref="char:EOLhyphen"/>stoun,</hi> a most worthy person and great sufferer for his constant ad<g ref="char:EOLhyphen"/>herence to His Majesties Interest.</p>
+            <p>
+               <hi>Stuart</hi> Lord <hi>Methven,</hi> by <hi>Stuart</hi> Sheriff of <hi>Bute,</hi> it is to no purpose to commend their Loyaltie, or to doubt of it when the relations of their Predecessors to his Majesties Progenitors is con<g ref="char:EOLhyphen"/>sidered.</p>
+            <pb n="7" facs="tcp:207370:4"/>
+            <p>
+               <hi>Ruthven</hi> of <hi>Gowrie,</hi> by <hi>William Ruthven</hi> Parren of <hi>Gairnes,</hi> a Gentleman of clear repute and honesty, suitable to his Noble and Valiant Cousin the Earle of <hi>Forth</hi> and <hi>Brandfoord.</hi>
+            </p>
+            <p>Next on the Father side.</p>
+            <p>
+               <hi>Keith</hi> Earl of <hi>Marshal,</hi> by Colonel <hi>George Keith,</hi> brother to the said Earl, a Noble Gentleman, whose behaviour in His Ma<g ref="char:EOLhyphen"/>jesties Service discovered him a worthy inheritour of his Illustri<g ref="char:EOLhyphen"/>ous Progenitors.</p>
+            <p>
+               <hi>Fleeming</hi> Earl of <hi>Wigtoun,</hi> by Sir <hi>Robert Fleeming</hi> son to the said Earl, a gallant soul, carved out for his King and Countries Ser<g ref="char:EOLhyphen"/>vice, as are all his Family, witnesse his Noble Uncle Sir <hi>William Fleeming.</hi>
+            </p>
+            <p>
+               <hi>Drummond</hi> Earl of <hi>Perth,</hi> by Sir <hi>James Drymmond</hi> of <hi>Machiny,</hi> one whose fidelity to King and Country was never brought in question.</p>
+            <p>
+               <hi>Grahame</hi> Marquesse of <hi>Montrose,</hi> by <hi>James Grahame</hi> Barron of <hi>Orchell,</hi> whose life and fortune never caused him scruple to ad<g ref="char:EOLhyphen"/>vance the Royal Interest.</p>
+            <p>The Armes of the Defunct in Mourning by <hi>James Grahame</hi> of <hi>Bucklevy,</hi> son to the Barron of <hi>Fentry,</hi> a Gentleman which no<g ref="char:EOLhyphen"/>thing could never startle from His Majesties Service, and that he was a favorite of the Deceased, and accompanied his Son in the late Highland War, is sufficient to speak his praises.</p>
+            <p>An Horse in close Mourning led by two Lacquies in Mourning.</p>
+            <p>Four closse Trumpets in Mourning, with the Defuncts Armes on their Banners.</p>
+            <p>Six Pursevants in Mourning with their Coats displayed, two and two.</p>
+            <p>Six Heraulds with their Coats, as followeth,</p>
+            <p>The first carrying an Antick Shield with the Defuncts Armes on it.</p>
+            <p>The second carrying his Creist.</p>
+            <p>The third his Sword.</p>
+            <p>The fourth the Targe.</p>
+            <p>The fifth the Scroll and Motto.</p>
+            <pb n="8" facs="tcp:207370:5"/>
+            <p> The sixth his Helmet.</p>
+            <p>Two Secretaries, Master <hi>William Ord,</hi> and Master <hi>Thomas Saintserf.</hi>
+            </p>
+            <p>Then Doctor <hi>Middleton</hi> and his Chapline.</p>
+            <p>His Parliament Robes carried by <hi>James Graham</hi> of <hi>Killern,</hi> a Gentleman whose merite besides his Birth procured this Noble employment.</p>
+            <p>The Generals Batton, by <hi>Robert Grahame</hi> elder of <hi>Cairnie,</hi> a brave and bold Gentleman, who from the beginning of his Chiefs enterprises never abandoned him, and one whose Fortune endured all the mischiefs of Fire and Devastation.</p>
+            <p>The Order of the Garter by <hi>Patrick Graham</hi> Baron of <hi>Inch<g ref="char:EOLhyphen"/>brakie</hi> elder, a person most eminent for his services upon all oc<g ref="char:EOLhyphen"/>casions, and the only Companion of the Defunct when he went first to <hi>Athole</hi> and published His <hi>Majesties</hi> Commission.</p>
+            <p>The Marquesse Crown carried by Sir <hi>Robert Graham</hi> of <hi>Mor<g ref="char:EOLhyphen"/>phie</hi> younger, a Noble person, no lesse renowned for his affection to Royalty then for his kindnesse and hospitality amongst his neighbour Gentry.</p>
+            <p>The Purse carried by <hi>David Graham</hi> Baron of <hi>Fentrie,</hi> this Noble Gentlemans Predecessor was the Son of the Lord <hi>Graham</hi> then head of the House of <hi>Montrose,</hi> who upon a second Marriage on King <hi>James</hi> the first his Sister, begot the first Baron of <hi>Fentry,</hi> which in a Male Line hath continued to this Baron, and as their Births was high, so their qualifications hath in every respect been great, for in all ages since their rise nothing unbecoming loyal Subjects or persons of Honour could be laid to their charge, and he who possesseth it now can claim as large a share as any of his Ancestours.</p>
+            <p>Next before the Corps, went Sir <hi>Alexander Durham</hi> Lyon King of Armes, with His Majesties Coat displayed, carrying in his hand the Defuncts coat of Honour.</p>
+            <p>The Corps was carried by fourteen Earles, <hi>viz.</hi>
+            </p>
+            <p>The Earles of <hi>Marr, Morton, Eglington, Caithnes, Winton, Lin<g ref="char:EOLhyphen"/>lithgow, Home, Tillibardin, Roxburgh, Seaforth, Kallender, Annin<g ref="char:EOLhyphen"/>dale, Dundie, Aboyne.</hi>
+            </p>
+            <pb n="9" facs="tcp:207370:5"/>
+            <p> The Pale above the Corps, was likewise sustained by twelve Noblemen, <hi>viz.</hi> The Viscounts of <hi>Stormont, Arbuthnet, King<g ref="char:EOLhyphen"/>stone,</hi> the Lords <hi>Stranaver, Kilmaurs, Montgomery, Coldinghame, Fleeming, Gask, Drunlanerick, Sinclar, Mack-donald.</hi>
+            </p>
+            <p>Gentlemen appointed for relieving of those who carried the Coffine under the Pale.</p>
+            <p>Earles Sons, Sir <hi>John Keith</hi> Knight Marshal, <hi>Robert Gordon, Alexander Livingstoun,</hi> Sir <hi>David Ogilvie,</hi> the Barrons of <hi>Piteurr, Powrie Fotheringhame, Cromlis, Abercairny, Ludwharne, Denholm, Mackintosh, Balmedie, Glorat, Cahoun, Braco, Craigie, Morphie, Ban<g ref="char:EOLhyphen"/>doch</hi> elder and younger, and the ingenious Baron of <hi>Minorgan</hi> and <hi>John Graham</hi> of <hi>Creekie</hi> who likewise accompanied the Lord Mar<g ref="char:EOLhyphen"/>quesse in his Travels in <hi>France</hi> and <hi>Italy.</hi>
+            </p>
+            <p>Next to the Corps went the Marquesse of <hi>Montrose</hi> and his Brother as chief Mourners, in Hoods and long Robes, carried up by two Pages, with a Gentleman bare-headed on every side.</p>
+            <p>Next to him followed Nine of the nearest in Blood, three and three in Hoods and long Robes carried up by Pages. <hi>viz.</hi>
+            </p>
+            <p>The Marquesse of <hi>Dowglasse,</hi> the Earles of <hi>Marshal, Wigtoun, Southask,</hi> Lords of <hi>Drumond, Matherti, Naper, Rollo,</hi> and Baron of <hi>Luz</hi> Nephew to the Defunct.</p>
+            <p>Next to the deep Mourners went my Lord <hi>Commissioner</hi> his Grace in an open Coach and six Horses all in deep Mourning, six Gentlemen of quality going on every side of the Coach in deep mourning bare-headed.</p>
+            <div type="part">
+               <head>The Corps of Sir <hi>William Hay</hi> of <hi>Delgity</hi> followed in this Order.</head>
+               <p>Captain <hi>George Hay</hi> son to Sir <hi>John Hay</hi> late Clerk Register carried the Standard of Honour.</p>
+               <p>
+                  <hi>William Ferguson</hi> of <hi>Badyfarrow</hi> the Gumpheon.</p>
+               <p>Master <hi>John Hay</hi> the Pinsel of Honour.</p>
+               <p>
+                  <hi>Alexander Hay</hi> the Spurs and Sword of Honour.</p>
+               <p>Master <hi>Harie Hay</hi> the Croslet.</p>
+               <p>Master <hi>Andrew Hay</hi> the Gauntlets.</p>
+               <p>Next followed his four Branches.</p>
+               <p>
+                  <hi>Hay</hi> House of <hi>Arroll</hi> carried by <hi>Alexander Hay.</hi>
+               </p>
+               <p>
+                  <hi>Lesly,</hi> House of <hi>Bonwhoyn</hi> by <hi>George Lesly</hi> of Chapleton.</p>
+               <pb n="10" facs="tcp:207370:6"/>
+               <p>
+                  <hi>Forbes</hi> Of the House of <hi>Forbes</hi> by <hi>Forbes</hi> of <hi>Lesly.</hi>
+               </p>
+               <p>
+                  <hi>Hay</hi> Of <hi>Delgity,</hi> by <hi>Robert Hay</hi> of Perk.</p>
+               <p>Two closse Trumpets in Mourning.</p>
+               <p>Then the Corps garnished with Scutchions and Epitaphs, attended by the Earl of <hi>Arroll,</hi> Lord high Constable of <hi>Scotland,</hi> the Earles of <hi>Buchan, Tuadall, Dumfriesse, Kinghorn,</hi> the Viscount of <hi>Frendraught,</hi> the Lords <hi>Ray, Fraser, Foster,</hi> Master <hi>Robert Hay</hi> of Dronlaw, <hi>George Hay of</hi> Kininmouth, with a multitude of the Name of <hi>Hay</hi> and other Relations.</p>
+               <p>As the good Town of <hi>Edinburgh</hi> was never wanting to the celebration of loyal Solemnities, so they appeared highly mag<g ref="char:EOLhyphen"/>nificent in this; for their Trained Bands in gallant order ranged both sides of the Streets twixt the two Churches, and as the Corps of the great <hi>Montrose</hi> was laying in the Grave of his Grand<g ref="char:EOLhyphen"/>father who was Vice-Roy, they did nothing but fire excellent Vollies of shot, which was answered with thundering of Canon from the Castle; the same was done to the Baron of <hi>Delgity</hi> as he was Interring by his Generals side. There was two things remarkable, the one, that before the beginning of the Solemnity, there was nothing but stormy rains, but the Corps no sooner came out but fair weather with the countenance of the Sun appeared, and continued till all was finished, and then the clouds returned to their frowns, and the storm begun afresh. The other, it was observed, that the friends of both the Deceased had Wedding Countenances, and their Enemies were howling in dark corners like Howlets. Some say, that there was then a kind of Col<g ref="char:EOLhyphen"/>lective Body, or sort of Spiritual Judicatory in Town that would not be present at the Funeral, left the bones of both should bleed.</p>
+               <p>Never Funeral pomp was celebrate with so great jollity, nei<g ref="char:EOLhyphen"/>ther was it any wonder since we now enjoy a King, Lawes, Liber<g ref="char:EOLhyphen"/>tie, Religion, which was the only cause that the Deceased did so bravely fight for, and who would not be good Subjects, since there is so great Honour payed to their memories, when we see Traitors for their villanie has their Carcasses raised and hung. upon Gibbets, as was the late <hi>Cromwel</hi> and others. All that be<g ref="char:EOLhyphen"/>longed to the body of this great <hi>Heroe</hi> was carefully recollected, only his Heart, which two dayes after the Murder in spight of the Traitors, was be the conveyance of some adventorious spi<g ref="char:EOLhyphen"/>rits appointed by that Noble and Honourable Lady, the Lady <hi>Napier</hi> taken out and embalmed in the most costly manner, by
+<pb n="11" facs="tcp:207370:6"/>that skilfull Chyrurgion and Apothecary Mr. <hi>James Callender;</hi> then put in a rich Box of Gold, and sent by the same Noble La<g ref="char:EOLhyphen"/>dy to the now Lord Marquesse who was then in <hi>Flanders.</hi>
+               </p>
+               <p>The Solemnities being ended, the Lord <hi>Commissioner</hi> with the Nobility and Barons had a most sumptuous Supper and Banquet at the Marquesse of <hi>Montrose</hi> House, with Consorts of all sort of Musick.</p>
+               <p>Nothing here was wanting for compleating the Solemnities but the good old custome of a Sermon, which (in regard of the true and excellent Character of the great <hi>Montrose,</hi> given by that Learned and ever Loyal Doctor <hi>George Wishart</hi> in his Book, <hi>De rebus Montis ros,</hi> &amp;c.) was the more easily dispensed with, and indeed it is a sufficient Monument to perpetrate his memory to Eternity: However because the Book is in the Language of the Beast, which haply some will scruple at, and many not understand, for their satisfaction, I have glanced at the characters of these two Noble and Crowned Martyres. And first, It is known that he is Head and Chief of that most Ancient and famous Family of <hi>Grahams,</hi> called in our old <hi>Scots</hi> Language, the great <hi>Graem.</hi> The rise of the race is from that <hi>Graem</hi> so famous in History, Father in Law to <hi>Fergus</hi> the second King of <hi>Scotland,</hi> from whom he re<g ref="char:EOLhyphen"/>ceived Lands for his signal Service, in demolishing the <hi>vallum severi,</hi> which to this day is known by the name of <hi>Graem's</hi> Dike, and is still in possession of the Noble Marquesse of <hi>Montrose.</hi> If the Heroick Actions of this late Martyre could be more splendid by these of his Ancestors, we could mention the Valiant <hi>Graham,</hi> who so often baffled the <hi>Danes</hi> then Masters of <hi>England,</hi> and Sir <hi>John</hi> the <hi>Graham</hi> who gave so much trouble to <hi>Edward</hi> King of <hi>England,</hi> who took occasion of the difference twixt the <hi>Bruce</hi> and <hi>Baliol</hi> to invade our Countries Liberties. But these and many others of that Ancient Race I passe to hasten to our Martyre, on<g ref="char:EOLhyphen"/>ly this, his Grand-father's memory is yet fresh for his great Ser<g ref="char:EOLhyphen"/>vices to King and Country, both as Lord High Chancellor of <hi>Scotland,</hi> and Vice-Roy of this Kingdom, his Father likewise for his singular eminencies, both of body and minde inferiour to none, who after he had acquit himself most honourably of severall Royal Ambassages, was to the great losse of his Country taken away by untimely death. But to passe much which might be said of the Fame of his Progenitors, I shall acquaint you with both, I know my self (having followed him several years in his Expedi<g ref="char:EOLhyphen"/>tions)
+<pb n="12" facs="tcp:207370:7"/>and what I have learned from others of good name and credit. He was of a midle stature, and most exquisitly propor<g ref="char:EOLhyphen"/>tioned limbs, his hair of a light chesnut, his complexion twixt pale and ruddy, his eye most penetrating, though inclining to gray, his nose rather Aquilin then otherwise: as he was strong of body and limbs, so was he most agil, which made him excell most of others in these exercises where these two are required: In riding the great Horse, and making use of his Arms, he came short of none; I never heard much of his delight in Dancing, though his countenance and other his bodily endowments were equally sitting the Court as the Camp: In his younger dayes he travelled <hi>France</hi> and <hi>Italy,</hi> where he made it his work to pick up the best of their qualities, necessary for a person of honour, hav<g ref="char:EOLhyphen"/>ing rendered himself perfect in the Academies. His next delight was to improve his intellectuals, which he did by alloting a pro<g ref="char:EOLhyphen"/>portionable time to reading, and conversing with Learned Men, yet still so, that he used his exercise as he might not forget it, he studied as much of the Mathematicks as is required for a Souldier; but his great study was to read Men, and the actions of Great Men, thus he spent three years in <hi>France</hi> and <hi>Italy,</hi> and had sur<g ref="char:EOLhyphen"/>veyed the Rarities of the East: If his Domestick Affairs had not oblieged his return Home, which chanced at that time the late Rebellion began to peep out, the Conspirators knowing his great abilities, and the great esteem he had amongst the people, sought by all means to ensnare him with themselves, and so wrought in him a discontent, that notwithstanding his Grand-fathers, his Fathers eminent Services, together with his own merits so highly deserving, yet he had not the honour of being Counsellour: Be<g ref="char:EOLhyphen"/>sides, they knowing how good a Patriot he was, they left not that string untouch'd, by perswading that His Majesty intended to pro<g ref="char:EOLhyphen"/>vinciate us, and to introduce Popery, with which and the like cunning Forgery's born in upon him by some setting, <hi>&amp;c s.</hi> kept a purpose for that use: they got him associate in the Cabal, but his generous soul soon after his engagement, smoak't out their hy<g ref="char:EOLhyphen"/>pocrisies and rotten enterprises, and from that time which was in the latter end of <hi>Anno</hi> 1639. He abandoned them and faced about to his Allegiance, resolving to sacrifice all was precious to him in his Majesties Service, and accordingly discovered all the engines of the plot, the many circustances of which must be left to the Historians of the Time. In the end of the year 1643.
+<pb n="13" facs="tcp:207370:7"/>when a great party of our Nation had been involved against the King in <hi>England,</hi> he with the help of a thousand <hi>Irish</hi> gave op<g ref="char:EOLhyphen"/>portunity to the Royalty party to bestir themselves and joyn with him, with whom he established an Army more consisting in the valour, then number of the persons, as was seen in a years space, in which he clearly gained six Battels, where there fell 20000. of the Rebels. In the management of this Service, though he had never been bred a Souldier, yet he shew admirable knowledge in the Arte of War, and though he never confined himself to the practice of other Nations, yet he never did any thing but with strong reason, his stratagems seldome missing of being successeful, his vigilance and toyl were wonderful, that the Enemy knew not where he was till he was on them, and he again never ignorant of their place, strength and condition: His fight was still on the Plains, though the Hills were advantagious to him, his Cavalry not being the fourth part of the Enemies, but all of Gentlemen, particularly of these Noble Families of <hi>Gordouns</hi> and <hi>Ogilvy:</hi> He shew greatest chearfulnesse in his greatest extremities; if his In<g ref="char:EOLhyphen"/>fantry at any time scrupled the wading of little Rivers, he was the first dismounted to shew others the way, and this banished all repining: He accustomed himself to course feeding, and constant drinking of water, he knew they were still to be found, so that the want of Delicacies should be no tentation to him to weary of the Service: He had many opportunities of large Sums of Mo<g ref="char:EOLhyphen"/>ney, but shunned the making use of them, knowing he could ne<g ref="char:EOLhyphen"/>ver enjoy both their hearts and purses, ever inculcating to them that His Majestie demanded nothing but the performance of their duty in point of Allegiance. Indeed the propagators of the <hi>Good Cause</hi> had a Religious way to enrich themselves, by flaying to the very skin the Royal Party, whom they termed <hi>Egyptians.</hi> It was wonderful with what dexterity he kept his Army intire without Pay or Plunder, which his behaviour did strangely undeceive the people, that neither his Majestie nor his followers were such Hea<g ref="char:EOLhyphen"/>thens as they were held out to them by their black mouth'd Juries: Nay, he was most happy in restoring fanatical enemies to their wits, either by convincing them of their erroneous course, or perswad<g ref="char:EOLhyphen"/>ing them to joyn with him, and this was according to one of his own principles, <hi>viz. That a person in publike imployment should rather court the people for his Princes Interest, then his Prince for his own.</hi> If this rule were exactly followed by all favourits, it would
+<pb n="14" facs="tcp:207370:8"/>smoother all dangerous heart-burnings, and contribute highly to secure the peoples affections to their King. His vast knowledge in Military and State Affairs was admirable, he was pleasant and witty in conversation, with an assability in private becoming a a Comrad, scandalous and obscaen wit durst not appear before him. In this sort he made War in <hi>Scotland</hi> against His Majesties Ene<g ref="char:EOLhyphen"/>mies for the space of eighteen Months, bearing the Trophees of six Battels, with the defeat of six Armies: And no doubt he had continued victorious, if the arte of Trepaning had not been prevalent, however the slurre he received at <hi>Philipshaugh</hi> was not the cut-throat of His Majesties Army, for through his Enemy he made way to his Friends in the <hi>North,</hi> though far off, where his presence gave life to drooping spirits, and in a short time made up so considerable Forces as could give check to the in<g ref="char:EOLhyphen"/>sulting Enemy: But His Majesty coming to <hi>Newcastle,</hi> put a pe<g ref="char:EOLhyphen"/>riod to that War; here our <hi>Hero</hi> was as conspicuous for his pas<g ref="char:EOLhyphen"/>sive obedience as either he or his Noble Ancestors were for their most deserving actions: His Army he had so endeared to him, that they would have followed him upon any Account, but accor<g ref="char:EOLhyphen"/>ding to the Commands received from his Majestie he Capitulate nobly for these Gentlemen who had accompanied him in the Service; which Capitulation was most sacredly and inviolably kept by that Noble Person who treated with him. The Mar<g ref="char:EOLhyphen"/>quesse in obedience to his Majesties Orders went to attend the Queens Commands at <hi>Paris,</hi> where he he stayed for some time, ca<g ref="char:EOLhyphen"/>sting about and designing in several Nations what was conducible for His Majesties recovery; at length weary of delayes, and im<g ref="char:EOLhyphen"/>patient of action, he came to be surprized, as he was enterprising to come to his ancient Friends, whose gallant behaviour in the former War had made both him and them so famous. I shall not speak of his barbarous usage whilst he was Prisoner; because they were Countrey-men and pretended to be Christians; but as to himself, never Martyr for the cause of Christ went with greater cheerfulnesse to the Fire, then he did imbrace all the indignities put on him, and all without vanity or pageantry as many are used to do on such occasions: his composednesse and gravity can scarce be mentioned without hyperbole's, when he was reviled and the lie put upon him (by him whom <hi>Caledo<g ref="char:EOLhyphen"/>nius</hi> called the <hi>Athenian</hi> Hocus) he returned no other answer, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he had heard him speak to better purpose at other
+<pb n="15" facs="tcp:207370:8"/>times. He was frequent in his Devotions and heavenly Medita<g ref="char:EOLhyphen"/>tions, and having reconciled himself with a true contrition to his gracious God, he advanced to finish his course with a cou<g ref="char:EOLhyphen"/>ragious gravity and pious modesty, as his glorious Martyred Ma<g ref="char:EOLhyphen"/>ster had done before; which carriage turned the hearts of his Enemies who came to insult at the butchery, and generally the barbarity of his usage was condemned by all; and truly it is to be regrated to think how some on the Scaffold (especially a little Levite) laboured to discompose his soul by their horrid upbraidings and reproaches, but his unspeakable Chri<g ref="char:EOLhyphen"/>stian and milde behaviour shew how firmly it was fixed in the state of Grace; I shall say little more of this great Martyr, then what was said of the Reverend Arch-bishop of <hi>Canterbury</hi> mar<g ref="char:EOLhyphen"/>tyred on the same Account, when a worthy Knight was in a con<g ref="char:EOLhyphen"/>temtible jeering way demanded, what his Epitaph should be, he answered; that so long as St. <hi>Pauls</hi> Church stood, and his Book preserved, he could neither want Monument nor Epitaph, so I say, so long as his History is in being, and the heaps of stones which covered his enemies Carcasses in <hi>Tipper-moor, Aberdene, Ennerlochy, Aldern, Alford</hi> and Kilsyth are lasting, he can neither want the one nor the other, and that is so long as there is a Summer to succeed the Spring, and the Coelestial Bodies to ter<g ref="char:EOLhyphen"/>minate their usual course.</p>
+               <p>A word now to the noble Cavaleer that accompanied him in the same fortunes, and with the same Genius, though in a lesser Sphaere. He is descended of that Ancient and Noble Family of the Earls of <hi>Arrol,</hi> Chief of the name of <hi>Hay,</hi> Lord High Constable of <hi>Scotland</hi> heretably. The establishment of this Family is most famous in our old Records and Histories, their Honours and Estate were confer<g ref="char:EOLhyphen"/>red by King <hi>Kenneth</hi> the third on this occasion. The <hi>Danes</hi> at a Battel had put to a disorderly retreat to the <hi>Scots</hi> Army, which one named <hi>Hay</hi> with his three sons, being (as the Story goes) at the plough, perceiving, stop'd them at a narrow passe, and what with threats, and what with other perswasive notions, animate them to Rallay and to turn face, they going on with the formost, with such armes as their plough with its accoustrements did furnish them, where they shew such eminence of valour in a most furious charge, that immediatly victory attended them, with the totall overthrow of the Enemy: For which great action the King gave to them a Faulcons flight of the choisest land, nobling them, and
+<pb n="16" facs="tcp:207370:9"/>giving for their Armes in a Field argent, three bloody Shields, a Faulcon in Crest, and two Savages for supporters, the Motto <hi>Servo Jugum.</hi> This noble rise being eight hundred years ago, may well place them amongst the most Honourable Families in Europe, and thus for his extraction, being the first Cadet of this Family. His youthhead he spent in <hi>Germanie</hi> under the command of his Uncle, the renouned Count <hi>Lesly</hi> great Chamberlain to the Emperour; but hearing that his Majertie was in War with his Rebels, he shook off all expectations of preferment there, and came home with the tender of his service to his <hi>Majestie,</hi> where first with the great <hi>M. Montrose</hi> and the valiant Lord <hi>Ogilvy,</hi> he gave many and singular proofs of his prowes in his Majesties ser<g ref="char:EOLhyphen"/>vice in <hi>England,</hi> till the affairs of <hi>Scotland</hi> drew him thither, in which service with his General, how eminent he was, his sufferings shew; he never dispute the command put on, though carrying never so many difficulties and dangers, which he alwayes judici<g ref="char:EOLhyphen"/>ously and hardily put in execution. His stature was much of that of the M. <hi>Montroses,</hi> but more square, of great bones, his limbs equally proportioned, of a very flaxen and bushy hair, his com<g ref="char:EOLhyphen"/>plexion rarely delicate, red and white well mixed, such as a Lady would have who would vye for beauty, of disposition affable, a stock of courage and liberality becoming both Souldier and Gentle<g ref="char:EOLhyphen"/>man, his constancy at his death shew well he repented nothing he did in order to his Allegiance and Majesties Service, to the great shame of those who threatned him with their Apocriphal Excom<g ref="char:EOLhyphen"/>munications, to which he gave no more place, then our Saviour to the devils tentations, he was murthered the next day after his General the Lord Marquesse. Many other Noble Gentlemens murthers in the same nature I will not name at this time; yet I cannot passe that of <hi>John Spotswood,</hi> grand childe to the Arch<g ref="char:EOLhyphen"/>bishop of St. <hi>Andrews,</hi> who died in exile, and Nephew to the great Sir <hi>Robert Spotswood</hi> butchered in the like manner: This same young Gentleman on his knees, ready to lay his head on the Block, had these self same following words, <hi>O Lord, who hath been graciously pleased to bring me through the wildernesse of this world, I trust at this time you will waft me over this sea of blood to thy heavenly Canaan.</hi> To which heavenly e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aculation, a Minister standing by replyed, take tent, take tent Sir that you drwon not be the gate, an expression sufficient to have distracted an ordinary soul, but our Martyr Christian answered, <hi>He hoped he was no Egyptian,</hi>
+                  <pb n="17" facs="tcp:207370:9"/>which he delivered with such Christian modesty, that the Lout stole away in the crowd being confounded. His Uncle Sir <hi>Robert</hi> was no otherwise dealt with by another of the Brethren, being on the Scaffold at St. <hi>Andrews</hi> for the same just cause: In his speach to the people while he was recommending to them their duty and obedience to the King, especially so good a King, one interrupted him, and forbade the people to believe him, being the son of a false P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ophet, meaning that great light in the Church his father, the Archbishop of the place. Hence may the people learn if they ought to trust the doctrine of their Allegiance to such ones who drenches themselves in the blood of the best Subjects, whose fame and acts shall serve as ex<g ref="char:EOLhyphen"/>amples of future Loyaltie, Gallantry and piety: and it is hoped that none will be so mad again as to worship Meteors, when God Almighty hath provided a shining Sun, our Lawfull and Dread Soveraign, whom God long preserve, <hi>Amen, Amen.</hi>
+               </p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <head>Immortali verae Nobilitatis, inaequandae Magnanimitatis, incontuminati Ho<g ref="char:EOLhyphen"/>noris, &amp; intemeratae Fidelitatis, Magni <hi>Grami</hi> memoriae <hi>Sacrum.</hi>
+               </head>
+               <p>SI quis hic jacet quaeris viator, Magnus hic est ille Montis rosa<g ref="char:EOLhyphen"/>rum Marchio, generost Genii suae famillae generosus haeres; qui virescentibus adhuc (licet annosis) Majorum suorum pal<g ref="char:EOLhyphen"/>mis, tot victrices contexuit laures, ut si omnes Illi huic Ʋni an Ʋnus hic Illis omnibus plus gloriae contulerit scire sit nefas. Hic est Nobilis Ille Montis rosarum Marchio; qui si profapin an virtute illustrior, consilio an dexterâ promptior, aulae an castris Charior, principibus suis an exteris gratior, perduellionis malleus durior, an monarchiae assertor acrior fama an fortunâ clarior, in vitâ denique insignior, an in morte constantior exstiterit dictu difficile: Hic est,
+<pb n="18" facs="tcp:207370:10"/>Viator, Magnus Ille <hi>Dux,</hi> ducum sui saeculi facilè princeps: <hi>Dux,</hi> qui cum paeditum manipulo (ne dicam excercitulo) penè inermi, vectus &amp; amictus inopè, causae aequitati, ducis magnanimitati, &amp; gladiis confiso suis, ingentes hostium acies Armatas duodecim men<g ref="char:EOLhyphen"/>sium (plus minus) spatio septies Vidit, Vicit, Delevit. <hi>Majora</hi> haec Caesaris Oculatâ victoriâ. Sed proh instabilem lubrici fati ro<g ref="char:EOLhyphen"/>tam! Qui arma, castra, oppida, turres, propugnacula, qui frigus, famem, sitim, inaccessa montium juga, immo omnia superate con<g ref="char:EOLhyphen"/>sueverat tandem maligno fortunae errore victus, nequissimè hostibus traditus, quid non passus! Protomartyris regis sui martyr pedisse<g ref="char:EOLhyphen"/>quus, plus quam barbaro inimicorum furori (nisi tam generoso san<g ref="char:EOLhyphen"/>guine implacabili) &amp; effraenae praeligiatorum Druidum insolentiae victima oblatus, inviciam malis exspiravit animam. Sic concidit Nobile illud diadematis fulcrum, sic occidit Resplendens ille <hi>Cale<g ref="char:EOLhyphen"/>doniae</hi> Phosphorus, sic occubuit Magnus ille Martis Alumnus, &amp; cum illo mascula quaeque superfaetantis Virtutis soboles, per obste<g ref="char:EOLhyphen"/>trices indigenas, ipsis Aegiptiis crudeliores trucidata. Post unde<g ref="char:EOLhyphen"/>cennium ossa effodi, membra recolligi, &amp; per proceres &amp; regni Co<g ref="char:EOLhyphen"/>mitia à Caenobio regio S. Crucis per Metropolim summo cum splen<g ref="char:EOLhyphen"/>dore ad Aedes D. Aegidio sacris comitata, impensis suis regiis sub hoc Monumento magnifico cum Avo suo Nobili quondam <hi>Scotiae</hi> prorege sepeliri mandavit Augustissimus Regum CAROLƲs <hi>II.</hi> imperio suo divinitus restitutus. Vale Viator, &amp; quisquis es, im<g ref="char:EOLhyphen"/>mensam serenissimi Principis erga suos pietatem, &amp; Posthumum hunc Magni <hi>Grami</hi> pristinae suae gloriae redivivi Cole <hi>Triumphum.</hi>
+               </p>
+               <closer>
+                  <signed>J. E. <hi>Miles Philo-Gramus Po.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>At the Funerals of the Lord Mar<g ref="char:EOLhyphen"/>quesse of <hi>Montrose, 1661.</hi>
+               </head>
+               <lg>
+                  <l>HEre reinter'd <hi>Montrose</hi> lyes, though not all,</l>
+                  <l>As if too narrow were one Funerall.</l>
+                  <l>So <hi>Orpheus</hi> Corps descerpt by wicked furie,</l>
+                  <l>His Friends <hi>Apollo</hi> and the <hi>Muses</hi> burie.</l>
+                  <l>That head, his Enemies trophee, and their shame,</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> oft had been a <hi>Gorgon</hi> unto them.</l>
+                  <pb n="19" facs="tcp:207370:10"/>
+                  <l>The badge of their foul perfidie and pride,</l>
+                  <l>When to their Soveraign's view they own'd the dead.</l>
+                  <l>Had scarce been three month's mounted when as all</l>
+                  <l>Like <hi>Caesar</hi> under <hi>Pompeis</hi> statue fall:</l>
+                  <l>Brought down by their own Aleis, and that sin</l>
+                  <l>Which like the sin of <hi>Nebats</hi> son had bin.</l>
+                  <l>Ten years the Lands deboach, Religions mock</l>
+                  <l>Drew on for ten years more a Forraign yoke;</l>
+               </lg>
+               <lg>
+                  <l>Till by the Revolution of Heavens face,</l>
+                  <l>
+                     <hi>Montrose</hi> gets glory, and the Land gets grace.</l>
+                  <l>When after ages shall recount his worth,</l>
+                  <l>And read his Victories on <hi>Die, Tay, Forth,</hi>
+                  </l>
+                  <l>Atchievements noble of a Loyal Band</l>
+                  <l>Upon a brainsick Faction of the Land:</l>
+                  <l>His Conduct, his submission to the Crown,</l>
+                  <l>T' advance arm'd or unarm'd, and lay Arms down:</l>
+                  <l>His scorne of lucre, care of keeping Faith,</l>
+                  <l>His matchlesse constancy in meeting death.</l>
+               </lg>
+               <lg>
+                  <l>They'll doubt what Epithets, Great, Generous</l>
+                  <l>Suit best, or Loyal, or Magnanimous.</l>
+                  <l>Whether more splendor to his Name do bring</l>
+                  <l>His actings, or his suffrings for his <hi>King.</hi>
+                  </l>
+               </lg>
+               <bibl>
+                  <hi>W. D.</hi>
+               </bibl>
+               <lg>
+                  <l>COme here and read varieties,</l>
+                  <l>A man of contrarieties</l>
+                  <l>Most loyal to his King, although</l>
+                  <l>A Traitor to the Kingdom: so</l>
+                  <l>His Countrey-men he still opprest:</l>
+                  <l>Yet still his Princes wrongs redrest.</l>
+                  <l>He did invade his Native Land,</l>
+                  <l>Yet wanted nee'r his Kings command:</l>
+                  <l>His Country-men he fought, he kill'd,</l>
+                  <l>Yet nee'r but Traitors blood he spill'd.</l>
+                  <l>He scourg'd the Land did tyrannize,</l>
+                  <l>Yet only Rebels did chastize.</l>
+                  <l>He caus'd the Subjects Liberties,</l>
+                  <l>Advanc'd the King's prerogatives:</l>
+                  <pb n="20" facs="tcp:207370:11"/>
+                  <l>Our Edicts he did still neglect,</l>
+                  <l>Th'ancient Laws he did respect:</l>
+                  <l>An Apostate he branded was,</l>
+                  <l>Yet still maintain'd the * Good old Cause:</l>
+                  <l>He lik'd not well our Churches form,</l>
+                  <l>Yet to the Scriptures did conform.</l>
+                  <l>He's Excommunicate, And Why?</l>
+                  <l>He sinn'd too much in Loyalty.</l>
+                  <l>He dies a Rebel to the Crown,</l>
+                  <l>Yet for the King his life layes down:</l>
+                  <l>He's punish'd as a Murtherer,</l>
+                  <l>Yet's hang'd a valiant Martyr:</l>
+                  <l>His courage here was sole Romain,</l>
+                  <l>His Imitation's Christian.</l>
+                  <l>Our <hi>Wits</hi> consult him how to shame,</l>
+                  <l>And yet our <hi>Wits</hi> procure his same.</l>
+                  <l>Alive and dead thus he doth prove,</l>
+                  <l>The equal But of hate and love.</l>
+               </lg>
+               <lg>
+                  <l>Expect not here in things complext</l>
+                  <l>That mid-mouth'd distinction 'twixt</l>
+                  <l>True and false: And such like moe,</l>
+                  <l>'Twixt really and deemed so:</l>
+                  <l>To reconcile thy doubts. Attend</l>
+                  <l>Till our posterity shall lend</l>
+                  <l>Their sence upon the matter, so</l>
+                  <l>The Mother then shall let thee know</l>
+                  <l>The Daughter, polisht fair and clear</l>
+                  <l>From Errors. Then perhaps youl hear</l>
+                  <l>Them say, <hi>His life's his Countreys fame,</hi>
+                  </l>
+                  <l>
+                     <hi>His usage and his death their shame.</hi>
+                  </l>
+               </lg>
+               <list>
+                  <item>
+                     <hi>Hunc fur or immanis reg ni Jugula vit aperte.</hi>
+                  </item>
+                  <item>
+                     <hi>Hunc am or immanis reg is sepeli vit aperte.</hi>
+                  </item>
+                  <item>
+                     <hi>Huic fur or immanis reg ni dat Golgatha Furcant</hi>
+                  </item>
+                  <item>
+                     <hi>Huic am or immanis reg is dat Funera Tumbam.</hi>
+                  </item>
+               </list>
+               <q>
+                  <bibl>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</bibl>
+               </q>
+               <pb n="21" facs="tcp:207370:11"/>
+               <lg>
+                  <l>IN vain thou looks that I should show</l>
+                  <l>Whose ashes here doth sleep below:</l>
+                  <l>For if thou wouldst acquainted be</l>
+                  <l>With his great parts and vertues high,</l>
+                  <l>Consult with after-times, they'l tell</l>
+                  <l>What we delight not to reveal.</l>
+                  <l>Our off-spring will the truth discover,</l>
+                  <l>Where we took pains the truth to smother:</l>
+                  <l>Advise with Times-Recorder: Come,</l>
+                  <l>He'l give you reasons why we'r dumb;</l>
+                  <l>My Prince bids me but only say,</l>
+                  <l>
+                     <hi>Montrose</hi> his bones we here did lay:</l>
+                  <l>The pious dust forbids me breath</l>
+                  <l>Ought of his usage or his death,</l>
+                  <l>Lest sober Infidels should spy</l>
+                  <l>Our Churches weaknesse, and deny</l>
+                  <l>The Gospel for our sakes, and cry,</l>
+                  <l>
+                     <hi>His death's his Countries obloquy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>On the Great <hi>Montrose.</hi>
+               </head>
+               <lg>
+                  <l>SEraphick soul, What heavenly powers combine</l>
+                  <l>To re-inter these sacred bones of thine?</l>
+                  <l>Thy glorious Relicts by malice bonds detain'd</l>
+                  <l>In silent grave; will no more be restrain'd</l>
+                  <l>But must appear in triumph, glad to see</l>
+                  <l>The blessed year of Britans Jubilee:</l>
+                  <l>Should there a Phoenix from thy ashes rise,</l>
+                  <l>Would not all Nations it Idolatrize?</l>
+                  <l>Thy noble stem and high Extraction</l>
+                  <l>Was beautified with such perfection,</l>
+                  <l>As makes thee still to be thy Nations glory</l>
+                  <l>Europes great wonder, stately Theme of story:</l>
+                  <l>Thy valorous actings far transcend the prayse</l>
+                  <l>Of Tongues or Pens, or these my rurall layes;</l>
+                  <l>Therefore I must so high a subject leave,</l>
+                  <l>And what I cannot speak or write, conceive.</l>
+               </lg>
+               <bibl>
+                  <hi>Mr. John Chalmers.</hi>
+               </bibl>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:207370:12"/>
+               <head>A reflection on the first and second Funerals of the great <hi>Montrose.</hi>
+               </head>
+               <lg>
+                  <l>A Mazed w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h these glorious shews, I find</l>
+                  <l>A crowd of sancies strugling in my mind;</l>
+                  <l>Staggering me in a doubt, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ich will be chief,</l>
+                  <l>A grievous <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oy or a rejoycing grief.</l>
+                  <l>While I behold the Trophees of thy worth,</l>
+                  <l>With all this joy and splendour now set forth.</l>
+                  <l>And hear thy name, perfumed by the State;</l>
+                  <l>With titles of <hi>so Loyal</hi> and <hi>so great.</hi>
+                  </l>
+                  <l>And see pure honour in so lofty straitnes,</l>
+                  <l>Hov'ring above thy late disdain'd remaines.</l>
+                  <l>Thy parboil'd parched head, and thy dry bones,</l>
+                  <l>Courted by <hi>Mars</hi> and <hi>Pallas</hi> both at once.</l>
+                  <l>Thy conquering palm with loading higher rise,</l>
+                  <l>And in the treasurie of thy growing praise,</l>
+                  <l>Each cast his mite: and here thy en'mies cry</l>
+                  <l>
+                     <hi>Hosanna</hi> now for their late Crucifie.</l>
+                  <l>To see thy friends their honour yet retain,</l>
+                  <l>Rearing thy Trophees with triumphant train.</l>
+                  <l>This over treason adds a victory more,</l>
+                  <l>A seventh conquest to the six before.</l>
+                  <l>To see thy torments travelling with thy praise,</l>
+                  <l>And thy Herse crowned with thy conquering Bayes.</l>
+                  <l>To see thy pains, thy infamie, thy death,</l>
+                  <l>Give life to Loyalty, to Honour breath.</l>
+                  <l>That after thee these Vertues may revive,</l>
+                  <l>And in thy glorious Issue ever live.</l>
+                  <l>These do commence our joyes, these expiate</l>
+                  <l>Our former crimes, although they came too late.</l>
+                  <l>And yet our griefs from that same fountain sprung,</l>
+                  <l>He's dead, for whom our Jovial Echoes ring.</l>
+                  <l>He's dead, the shame of all our <hi>British</hi> Story,</l>
+                  <l>He's dead, the grace of all our <hi>Scotish</hi> Glory.</l>
+                  <l>Valours great Mimon, the true antidot</l>
+                  <l>Of all disgrace that e're desam'd a <hi>Scot.</hi>
+                  </l>
+                  <pb n="23" facs="tcp:207370:12"/>
+                  <l>The flowr and Phoenix of a Loyal Stem,</l>
+                  <l>In <hi>Charles</hi> his Crown the most Illustrious Gem.</l>
+                  <l>And yet this Gem is broke, this Phoenix dead,</l>
+                  <l>This Glory buried, Mimon murdered.</l>
+                  <l>A sight would made (had he been there to see't)</l>
+                  <l>
+                     <hi>Argus</hi> with all his eyes turn <hi>Heraclit.</hi>
+                  </l>
+                  <l>Would metamorphos'd <hi>Mars</hi> to <hi>Niobe,</hi>
+                  </l>
+                  <l>And turn'd the world all but to one great Eye,</l>
+                  <l>To have delug'd that gasttly rueful place</l>
+                  <l>Where <hi>Albions</hi> faith, and honour buried was.</l>
+                  <l>A place which ever wise posteritie</l>
+                  <l>Shall stile hereafter, second <hi>Calvarie.</hi>
+                  </l>
+                  <l>It was no dint of Steel, nor force of Armes,</l>
+                  <l>Nor Traitors plots that did procure his harmes.</l>
+                  <l>To encounter and to conquer, all did see,</l>
+                  <l>Was one to him: at his nativitie,</l>
+                  <l>He had <hi>Mars</hi> in the ascendent, whose bright flame</l>
+                  <l>Made mighty Nations tremble at his name.</l>
+                  <l>Valour with valour, force with force controul</l>
+                  <l>He then, he only could: But's loyal soul</l>
+                  <l>To be a willing victim thought it meet,</l>
+                  <l>While Monarchie lay bleeding at his feet;</l>
+                  <l>For seeing <hi>Charles</hi> first run that sad disaster,</l>
+                  <l>In that same cup he pleg'd his Royal Master.</l>
+                  <l>And now, and not till now, that loyal spirit</l>
+                  <l>Hath got the honour due unto his merit.</l>
+                  <l>But since a Schedul will not quite the score,</l>
+                  <l>Fit for great Volums; here I'll give it o're.</l>
+                  <l>Too mean a tribute of a slow pac'd Verse,</l>
+                  <l>Is the affectory to so great a Herse.</l>
+                  <l>Or he or Heav'n must make the Epitaph</l>
+                  <l>That will be fit for such a noble Grave.</l>
+                  <l>He did; and after the Solemnity,</l>
+                  <l>Ev'n Heav'n it self did weep his Elegie.</l>
+               </lg>
+               <q>Dignum laude virum musa vetat mori.</q>
+               <pb n="24" facs="tcp:207370:13"/>
+               <lg>
+                  <l>
+                     <hi>IN Patriam, Regem, Legis ceu Perfidus Hostis</hi>
+                  </l>
+                  <l>
+                     <hi>Pro Patriâ, Rege &amp; legibus ocoubui,</hi>
+                  </l>
+                  <l>
+                     <hi>Legibus antiquis Patriae Regiquae fidelis;</hi>
+                  </l>
+                  <l>
+                     <hi>A Patriâ Rege &amp; legibus Intumulor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Go Passenger perswade the world to trust,</l>
+                  <l>Thou saw intomb'd the Great <hi>Montrose</hi> his dust!</l>
+                  <l>But tell not that he dy'd, nor how, nor Why?</l>
+                  <l>Disswade them in the truth of this to pry:</l>
+                  <l>Befriend us more, And let them ne're proclaim</l>
+                  <l>Our Nobles weaknesse, and our Countries shame.</l>
+               </lg>
+               <lg>
+                  <l>The Noble ashes here shall only tell</l>
+                  <l>That they were buried, not how they fell,</l>
+                  <l>For faithfull patriots should ne're proclaim</l>
+                  <l>Such acts as does procure their Countries shame.</l>
+               </lg>
+               <lg>
+                  <l>Let it content thee Passenger that I</l>
+                  <l>Can tell thee here entomb'd my bones doth lye,</l>
+                  <l>Do not enquire if e're I dyed, or why?</l>
+                  <l>Speak nought of cruel rage, hate, or envy,</l>
+                  <l>Learn only this, 'tis malice to reveal</l>
+                  <l>Our Countreys shame, but duty to conceal.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
